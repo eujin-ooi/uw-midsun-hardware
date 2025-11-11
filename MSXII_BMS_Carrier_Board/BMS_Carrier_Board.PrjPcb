@@ -36,8 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
-VcsMigrated=D9A4DFBF-88F1-42E1-87D4-C73364896B0F|FB73D12D-A7A3-4608-9F53-5F65BCFCF059
+ManagedProjectGUID=876D7FB9-5488-406A-BADF-FE186B564458
+VaultGUID=D9A4DFBF-88F1-42E1-87D4-C73364896B0F
+ReleaseVaultName=EJ_365_USEast_NVirginia
+ItemGUID=876D7FB9-5488-406A-BADF-FE186B564458
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -325,16 +327,16 @@ Path=..\altium-lib\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=MSPartNumber
-Value=MS-ELE0003
+Name=ProjectRevision
+Value=4.0
 
 [Parameter2]
 Name=ProjectAuthor
 Value=Aashmika Mali & Liam Hawkins
 
 [Parameter3]
-Name=ProjectRevision
-Value=4.0
+Name=MSPartNumber
+Value=MS-ELE0003
 
 [Configuration1]
 Name=Default Configuration
